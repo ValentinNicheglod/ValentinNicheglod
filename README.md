@@ -2,9 +2,9 @@
 
 Me llamo Valentín, soy un desarrollador web full stack de Uruguay (con preferencia por el front end) 😉.
 
-<center>
-<img src="https://user-images.githubusercontent.com/67331469/108633409-dd11be80-7452-11eb-9659-0099f4943eec.JPG" width="438" height="585">
-</center>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/67331469/108633409-dd11be80-7452-11eb-9659-0099f4943eec.JPG" width="438" height="585" align="center">
+</p>
 
 Como a muchos de ustedes, me gusta el café y nunca me quejo cuando se trata de programar, mi framework favorito es React ❤️ y el editor de código que consideró el mejor por lejos es VSC 💙.
 
