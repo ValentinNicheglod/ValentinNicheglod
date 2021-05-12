@@ -7,8 +7,6 @@ Me llamo Valentín, soy un desarrollador web full stack de Uruguay (con preferen
 </p>
 
 Como a muchos de ustedes, me gusta el café y nunca me quejo cuando se trata de programar, mi framework favorito es React ⚛️❤️ y el editor de código que consideró el mejor por lejos es VSC 💙.
-
-Actualmente estoy desarrollando algunos proyectos en **react** y **react native**, es mi salvación cuando me quedo sin algo para hacer 🤣
 <!--
 **ValentinNicheglod/ValentinNicheglod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
