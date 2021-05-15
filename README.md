@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Me llamo Valentín, soy un desarrollador web full stack de Uruguay (con preferencia por el front end) 😉.
+Me llamo Valentín, soy desarrollador web full stack de Uruguay.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/67331469/108633409-dd11be80-7452-11eb-9659-0099f4943eec.JPG" width="438" height="585" align="center">
