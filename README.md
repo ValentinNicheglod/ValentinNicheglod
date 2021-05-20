@@ -22,19 +22,45 @@ Me considero una persona muy atenta a los detalles, y esto me ayuda al momento d
 Como a muchos de ustedes, me gusta el café y nunca me quejo cuando se trata de programar, mi framework favorito es React ⚛️❤️ y el editor de código que consideró el mejor por lejos es Visual Studio Code 💙.
 
 
-Soy un apasionado del diseño UX/UI, constantemente aprendo y me actualizo con las tendencias actuales para aplicarlas en futuros proyectos, por lo tanto me hallo mas comodo programando en front end, aunque tambien disfruto crear API's, modelar bases de datos y otras cosas del ⚡⚡ **back end stuff** ⚡⚡.
+Soy un apasionado del diseño UX/UI, constantemente aprendo y me actualizo con las tendencias actuales para aplicarlas en futuros proyectos, por lo tanto me hallo más cómodo programando en front end, aunque también disfruto crear API's, modelar bases de datos y otras cosas del ✨✨ **back end stuff** ✨✨.
+
 
 ## Mis proyectos
 
-Todos sabemos que realizar proyectos personales lleva mucho tiempo y esfuerzo, pero me encanta adentrarme en la aventura, principalmente para adquirir mas experiencia y lograr tener un gran portfolio de proyectos.
+Todos sabemos que realizar proyectos personales lleva mucho tiempo y esfuerzo, pero me encanta adentrarme en la aventura, principalmente para adquirir más experiencia y lograr tener un gran portfolio de proyectos.
 
-Lo que mas disfruto cuando empiezo un proyecto es diseñar la interfaz y realizar la maquetación del mismo, al terminar el trabajo siento una gran satisfacción por el resultado.
+Lo que más disfruto cuando empiezo un proyecto es diseñar la interfaz y realizar la maquetación del mismo, al terminar el trabajo siento una gran satisfacción por el resultado.
 
-###### Lista de proyectos
-* [NotatKy](https://valentinnicheglod.github.io/NotatKy/#/) (mi preferido)
-* [Mono](https://valentinnicheglod.github.io/MONO-/#/)
+#### Lista de proyectos
+* [NotatKy](https://valentinnicheglod.github.io/NotatKy/#/): Web de notas (❤️**favorito**❤️)
+* [Mono](https://valentinnicheglod.github.io/MONO-/#/): Prototipo de e-commerce
+* TreeBank: Aplicación fintech
+* Nivel X: Web e-commerce
 
-Por ultimo, los invito a visitar mi [Portfolio personal](https://valentinnicheglod.github.io/Portfolio/), en donde encontrarán mas detalles de mi y de mis proyectos.
+###### También, los invito a visitar mi [portfolio personal](https://valentinnicheglod.github.io/Portfolio/), en donde encontrarán más detalles de mi y de mis proyectos.
+
+
+## Mi top 10 
+
+📱 **Aplicación:** Telegram
+
+💻 **Página web:** Discord
+
+🎮 **Videojuego:** Cities skylines
+
+🖥️ **Programa de PC:** Postman
+
+☕ **Bebida (caliente):** ✨ Café ✨
+
+🍹 **Bebida (fría):** Jugo de uva
+
+🍕 **Comida:** Pizza
+
+✈️ **Avión:** Airbus A350
+
+🏢 **Edificio:** One World Trade Center (NY)
+
+🎧 **Genero de musica:** Electrónica
 
 <!--
 **ValentinNicheglod/ValentinNicheglod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
