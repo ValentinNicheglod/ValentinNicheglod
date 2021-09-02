@@ -12,11 +12,7 @@ Siempre estoy en busca de expandir mis conocimientos, me encanta aprender y enfr
 Me considero una persona muy atenta a los detalles, y esto me ayuda al momento de pensar y diseñar, disfruto trabajando en equipos proactivos y organizados.
 
 
-<div>
-  <img src="https://user-images.githubusercontent.com/67331469/118836468-3e9ec900-b89a-11eb-9fd1-52bc065b0a5d.jpeg" width="33%" >
-  <img src="https://user-images.githubusercontent.com/67331469/118836444-39da1500-b89a-11eb-8c02-c420c9ccd625.jpeg" width="33%" >
-  <img src="https://user-images.githubusercontent.com/67331469/118836484-42cae680-b89a-11eb-8931-c31ed4addc2f.jpeg" width="33%" >
-</div>
+<img src="https://user-images.githubusercontent.com/67331469/131926355-18928970-dce9-46e2-b4dd-157f5f54bbfd.jpg" width="100%" >
 
 
 Como a muchos de ustedes, me gusta el café y nunca me quejo cuando se trata de programar, mi framework favorito es React ⚛️❤️ y el editor de código que consideró el mejor por lejos es Visual Studio Code 💙.
