@@ -1,4 +1,4 @@
-<a href="url"><img src="https://user-images.githubusercontent.com/67331469/118856633-8d099300-b8ad-11eb-88ad-2873757e212a.png" width="100%" height="auto" style="border-radius:10px"></a>
+<a style="border-radius:10px" href="url"><img src="https://user-images.githubusercontent.com/67331469/194632563-6d03bc4c-6e06-4b8c-9482-f8c81b17de2f.png" width="100%" height="auto"></a>
 
 ## 🙋🏻‍♂️ Sobre mi...
 
@@ -12,7 +12,7 @@ Siempre estoy en busca de expandir mis conocimientos, me encanta aprender y enfr
 Me considero una persona muy atenta a los detalles, y esto me ayuda al momento de pensar y diseñar, disfruto trabajando en equipos proactivos y organizados.
 
 
-<img src="https://user-images.githubusercontent.com/67331469/131926355-18928970-dce9-46e2-b4dd-157f5f54bbfd.jpg" width="100%" >
+<img src="https://user-images.githubusercontent.com/67331469/194637553-cfd46e4b-c88a-4d0e-9d4d-fa2bfd3298ad.png" width="100%" >
 
 
 Como a muchos de ustedes, me gusta el café y nunca me quejo cuando se trata de programar, mi framework favorito es React ⚛️❤️ y el editor de código que consideró el mejor por lejos es Visual Studio Code 💙.
