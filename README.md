@@ -1,8 +1,8 @@
-<a style="border-radius:10px" href="url"><img src="https://github.com/ValentinNicheglod/ValentinNicheglod/assets/67331469/dbb96abc-72d0-4751-a674-a1e6cf8d4825" width="100%" height="auto"></a>
+<a style="border-radius:10px" href="url"><img src="https://github.com/user-attachments/assets/8ff0b65a-42f8-4002-837d-735dddb7906c" width="100%" height="auto"></a>
 
 ## 🙋🏻‍♂️ Sobre mi...
 
-Hola!, soy Valentín, vivo en Paysandú, Uruguay, tengo 23 años y mi vida gira en torno a cuatro pasiones: la arquitectura 🏛, la aviación ✈️, el diseño 🎨 y por supuesto la programación 👨🏻‍💻, también disfruto mucho conociendo lugares nuevos y sacando fotos 📸.
+Hola!, soy Valentín, tengo 23 años y mi vida gira en torno a cuatro pasiones: la arquitectura 🏛, la aviación ✈️, el diseño 🎨 y por supuesto la programación 👨🏻‍💻, también disfruto mucho conociendo lugares nuevos y sacando fotos 📸.
 
 
 Siempre estoy en busca de expandir mis conocimientos, me encanta aprender y enfrentarme a nuevos desafíos, es algo que considero fundamental para el desarrollo de cualquier persona.
