@@ -11,8 +11,6 @@ Siempre estoy en busca de expandir mis conocimientos, me encanta aprender y enfr
 Me considero una persona muy atenta a los detalles, y esto me ayuda al momento de pensar y diseñar, disfruto trabajando en equipos proactivos y organizados.
 
 
-<img src="https://user-images.githubusercontent.com/67331469/194637553-cfd46e4b-c88a-4d0e-9d4d-fa2bfd3298ad.png" width="100%" >
-
 Soy un apasionado del diseño UX/UI, constantemente aprendo y me actualizo con las tendencias actuales para aplicarlas en futuros proyectos, por lo tanto me hallo más cómodo programando en front end, aunque también disfruto crear API's, modelar bases de datos y otras cosas del ✨✨ **back end stuff** ✨✨.
 
 
