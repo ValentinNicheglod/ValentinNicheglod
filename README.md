@@ -2,7 +2,7 @@
 
 ## 🙋🏻‍♂️ Sobre mi...
 
-Hola!, soy Valentín, tengo 23 años y mi vida gira en torno a cuatro pasiones: la arquitectura 🏛, la aviación ✈️, el diseño 🎨 y por supuesto la programación 👨🏻‍💻, también disfruto mucho conociendo lugares nuevos y sacando fotos 📸.
+Hola!, soy Valentín, tengo 24 años y mi vida gira en torno a cuatro pasiones: la arquitectura 🏛, la aviación ✈️, el diseño 🎨 y por supuesto la programación 👨🏻‍💻, también disfruto mucho conociendo lugares nuevos y sacando fotos 📸.
 
 
 Siempre estoy en busca de expandir mis conocimientos, me encanta aprender y enfrentarme a nuevos desafíos, es algo que considero fundamental para el desarrollo de cualquier persona.
